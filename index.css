@@ -4,6 +4,8 @@ html {
     align-items: center;
     font-family: monospace;
     font-size: 50px;
+    text-align: center;
+    height: 100%;
 }
 
 body {
@@ -17,7 +19,6 @@ kbd {
     display: inline-block;
     margin: 0 .1em;
     padding: .1em .6em;
-    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
     font-size: 20px;
     line-height: 1.4;
     color: var(--black-800);
